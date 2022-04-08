@@ -24,9 +24,9 @@
 
 <h3 align="left">Github Stats :</h3>
 <div align="center"> 
- <img  width = "45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyusha2001&show_icons=true&locale=en&layout=compact" alt="piyusha2001" />
+ <img  width = "43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyusha2001&show_icons=true&locale=en&layout=compact" alt="piyusha2001" />
 
-<img width="45%" src="https://github-readme-stats.vercel.app/api?username=piyusha2001&show_icons=true&locale=en" alt="piyusha2001" />
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=piyusha2001&show_icons=true&locale=en" alt="piyusha2001" />
 
 </div>
 
