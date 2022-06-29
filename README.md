@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Piyusha Patil</h1>
 <h3 align="center">A Third year student pursuing degree in Computer Science . I am currently focused on web development and wish to explore other fields along the way :)</h3>
-<img align="right" width="425" src="https://cdn.dribbble.com/users/2851002/screenshots/7736965/media/e08e0676dd54ae8715c2d72bbdd51eb2.gif"/>
+<img align="right" width="375" src="https://cdn.dribbble.com/users/2851002/screenshots/7736965/media/e08e0676dd54ae8715c2d72bbdd51eb2.gif"/>
 
 - 🌱 I’m currently learning **MERN Stack**
 
@@ -30,8 +30,6 @@
 <h3 align="left">Github Stats :</h3>
 <div align="center"> 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=piyusha2001&label=Profile%20views&color=0e75b6&style=flat" alt="piyusha2001" /> </p>
-
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=piyusha2001" alt="piyusha2001" /></a> </p>
  <img  width = "43%" src="https://github-readme-stats.vercel.app/api/top-langs?username=piyusha2001&show_icons=true&locale=en&layout=compact" alt="piyusha2001" />
 
 <img width="50%" src="https://github-readme-stats.vercel.app/api?username=piyusha2001&show_icons=true&locale=en" alt="piyusha2001" />
