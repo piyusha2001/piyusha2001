@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Piyusha Patil</h1>
-<h3 align="center">A Third year student pursuing degree in Computer Science . I am currently focused on web development and wish to explore other fields along the way :)</h3>
+<h3 align="center">A final year student pursuing degree in Computer Science . I am currently focused on web development and wish to explore other fields along the way :)</h3>
 <img align="right" width="375" src="https://cdn.dribbble.com/users/2851002/screenshots/7736965/media/e08e0676dd54ae8715c2d72bbdd51eb2.gif"/>
 
 - 🌱 I’m currently learning **MERN Stack**
