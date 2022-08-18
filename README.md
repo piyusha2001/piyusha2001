@@ -13,6 +13,8 @@
 
 - 🔥 Top contributor at **Girlscript Summer of Code 2022**
 
+- 👩‍🚀 **Postman Student Leader** @RMD Sinhgad School of Engineering 
+
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/piyusha-patil-2251b3205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyusha-patil-2251b3205" height="30" width="40" /></a>
