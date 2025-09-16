@@ -1,11 +1,11 @@
 
 <h1 align="center">Hi 👋, I'm Piyusha Patil</h1>
-<h3 align="center">Ex-Software Engineer @ ProtexAI (YC S21) | Full Stack Dev | ML Enthusiast </h3>
+<h3 align="center"> Research Intern @IISc Bangalore | Ex-Software Engineer @ ProtexAI (YC S21) | Full Stack Dev | ML Enthusiast </h3>
 <img align="right" width="375" src="https://cdn.dribbble.com/users/2851002/screenshots/7736965/media/e08e0676dd54ae8715c2d72bbdd51eb2.gif"/>
 
 - 🌱 I’m currently exploring **Machine Learning**
 
-- 👯 I’m looking forward to contribute more to open source.
+- 👯 I’m looking forward to contributing more to open source.
 
 - ⚡ Fun fact **Real programmers count from 0**
 
