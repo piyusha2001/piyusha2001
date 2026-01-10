@@ -18,7 +18,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/piyusha-patil-2251b3205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="piyusha-patil-2251b3205" height="30" width="40" /></a>
-<a href="https://instagram.com/piyushaaa_1710" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="piyushaaa_1710" height="30" width="40" /></a>
 <a href="https://discord.gg/9654" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="9654" height="30" width="40" /></a>
 </p>
 
